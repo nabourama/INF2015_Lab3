@@ -17,6 +17,7 @@ public class HelloWord {
     public static void main(String[] args) {
         System.out.println("salut les amies.");
         System.out.println("Les amis Bye.");
+        System.out.println("ajout de truc");
 
 
     }
